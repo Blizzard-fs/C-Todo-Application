@@ -1,0 +1,24 @@
+# CMake build files
+/cmake-build-*/
+/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# CLion IDE files
+/.idea/
+
+# Executables
+/todo
+
+# Backup and swap files
+*~
+*.swp
+*.swo
+
+# macOS specific files
+.DS_Store
+
+# User-specific runtime files (good practice to ignore)
+*.stackdump
