@@ -1,6 +1,3 @@
-//
-// Created by stefan on 6/27/25.
-//
 #include "TodoItemObject.h"
 
 struct _TodoItemObject

@@ -1,6 +1,3 @@
-//
-// Created by stefan on 6/27/25.
-//
 #ifndef APP_H
 #define APP_H
 

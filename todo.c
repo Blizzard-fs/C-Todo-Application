@@ -1,7 +1,3 @@
-//
-// Created by stefan on 6/27/25.
-//
-
 #include "todo.h"
 #include <glib/gstdio.h>
 #include <stdio.h>

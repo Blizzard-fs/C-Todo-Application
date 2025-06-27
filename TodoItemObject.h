@@ -1,6 +1,3 @@
-//
-// Created by stefan on 6/27/25.
-//
 #ifndef TODO_ITEM_OBJECT_H
 #define TODO_ITEM_OBJECT_H
 
