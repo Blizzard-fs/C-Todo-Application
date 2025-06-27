@@ -71,3 +71,5 @@ sudo pacman -S gtk4
   - Select an item from the list on the left to see its formatted content on the right.
   - Click **Edit** to modify the selected item, and **Save** or **Back** when you are done.
   - Use the keyboard shortcuts listed above for faster navigation.
+
+Yes, this was AI generated. :)
